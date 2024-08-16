@@ -1,4 +1,4 @@
-
+// JSON Parser Super V1.01s
 // Этим буду качать json-конфиг в конце
 function downloadString(text, fileType, fileName) {
 	var blob = new Blob([text], { type: fileType });
